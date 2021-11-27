@@ -46,7 +46,7 @@ Recurrent Neural Network (RNN) models such as Simple RNN, Long Short-Term Memory
 ![LSTM model - Fit to training data and forecast vs actual test values](https://github.com/alisonmitchell/Stock-Prediction/blob/main/Images/lstm-plot-of-fit-to-training-data-and-forecast-vs-actual-test-values.png?raw=true)
 
 ## Sentiment Analysis
-News articles will be collected from Investing.com by web scraping using Selenium and Beautiful Soup. Sentiment analysis will then be performed using NLP tools such as NLTK's VADER and TextBlob to find sentiment scores before combining the results with historical stock price data to determine whether news sentiment influences stock price direction.
+News articles will be collected from [Investing.com ](https://uk.investing.com/) by web scraping using Selenium and Beautiful Soup. Sentiment analysis will then be performed using NLP tools such as NLTK's VADER and TextBlob to find sentiment scores before combining the results with historical stock price data to determine whether news sentiment influences stock price direction.
 
 ## Algorithms and techniques
 Predicting the stock market will be posed both as a regression problem of price prediction to forecast prices 'n' days in the future, and a classification problem of direction prediction to forecast whether prices will increase or decrease.
