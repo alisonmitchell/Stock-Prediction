@@ -84,3 +84,6 @@ Pipelines will be built, and various Gradient-Descent based, Distance-Based and 
 * TextBlob
 * SpaCy
 * Gensim
+* BERT
+* Hugging Face
+* PyTorch
